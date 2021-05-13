@@ -1,7 +1,12 @@
-**/bin
-**/obj
-**/out
-**/.vscode
-**/.vs
-.dotnet
-.Microsoft.DotNet.ImageBuilder
+# directories
+**/bin/
+**/obj/
+**/out/
+
+# files
+Dockerfile*
+**/*.trx
+**/*.md
+**/*.ps1
+**/*.cmd
+**/*.sh
